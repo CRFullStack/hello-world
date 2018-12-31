@@ -1,5 +1,3 @@
 # hello-world
 my first github project
-I keep my head high, I got my wits to carry me....
-This is my canvas baby, ima paint it how i want it!
-I like to code alone, be in my zone...
+
